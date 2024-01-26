@@ -20,8 +20,11 @@ DedSec Virus Builder is a sophisticated Linux-based tool meticulously crafted fo
   * customable music
   * support 10/11 windows version 
 
-
-
+## HOW TO USE
+    * ICON: any icon with png format
+    * VIRUS NAME: ANYNAME [default is virus]
+    * WAV FILE: any music or voice recorded with wav format
+    * WALLPAPER: any desktop wallpaper
 
 ## INSTALLATION 
     * git clone https://github.com/0xbitx/DEDSEC_RANSOMWARE_BUILDER.git
