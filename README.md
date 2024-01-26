@@ -1,6 +1,6 @@
 
 <p align="center">
-<img src="https://cdn-icons-png.flaticon.com/512/8648/8648910.png", width="300", height="300">
+<img src="https://cdn-icons-png.flaticon.com/512/8501/8501421.png", width="300", height="300">
 </p>
 
 <h1 align="center"> DEDSEC_WINVIR_BUILDER</h1>
