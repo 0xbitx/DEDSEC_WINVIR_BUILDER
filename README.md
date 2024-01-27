@@ -18,6 +18,7 @@ DedSec Virus Builder is a sophisticated Linux-based tool meticulously crafted fo
   * customable name
   * customable wallpaper
   * customable music
+  * fully offline
   * support 10/11 windows version 
 
 ## HOW TO USE
