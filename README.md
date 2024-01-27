@@ -31,6 +31,7 @@ DedSec Virus Builder is a sophisticated Linux-based tool meticulously crafted fo
     * git clone https://github.com/0xbitx/DEDSEC_RANSOMWARE_BUILDER.git
     * cd DEDSEC_WINVIR_BUILDER
     * chmod +x dedsec_winvir setup
+    * sudo apt-get install imagemagick
     * ./setup
     * sudo ./dedsec_winvir
 
