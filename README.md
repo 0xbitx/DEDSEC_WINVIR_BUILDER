@@ -39,6 +39,12 @@ DedSec Virus Builder is a sophisticated Linux-based tool meticulously crafted fo
 * Kali Linux 
 * Parrot OS 
 
+#### VIRUSTOTAL RESULT [ if you are paranoid about running someone else's tool ]
+| tool name | checksum                | Link |
+| :-------- | ------------------------- | --------- |
+| dedsec_winvir   | 0d3e983f313cd886dc7822954a67d9ecdedb59231ed504462179391c9c567e0b | https://www.virustotal.com/gui/file/0d3e983f313cd886dc7822954a67d9ecdedb59231ed504462179391c9c567e0b?nocache=1  |
+
+
 ## Support
 
 If you find my work helpful and want to support me, consider making a donation. Your contribution will help me continue working on open-source projects.
